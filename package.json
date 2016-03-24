@@ -1,0 +1,22 @@
+{
+  "name": "mikit",
+  "version": "0.1.0",
+  "description": "another tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millylee/mikit.git"
+  },
+  "keywords": [
+    "mikit"
+  ],
+  "author": "millylee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millylee/mikit/issues"
+  },
+  "homepage": "https://github.com/millylee/mikit#readme"
+}
